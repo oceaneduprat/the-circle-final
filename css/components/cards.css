@@ -37,7 +37,7 @@
 	flex-wrap: wrap;
 	margin-left: 100px;
 }
-.cards h2{
+.cards-us h2{
 	margin-left: 80px;
 }
 
@@ -75,7 +75,7 @@
 }
 
 /* In the wishlist page */
-.baske {
+.basket {
 	display: flex;
 	align-items: center;
 	border-radius: 6px;
@@ -91,13 +91,13 @@
 		border-width: 2px;
 		border-style: solid;
 }
-.baske h4 {
+.basket h4 {
 	font-size: 9px;
 	font-weight: normal;
 	color: #919191;
 	margin-left: 40px;
 }
-.baske {
+.basket {
 	display: flex;
 	align-items: center;
 	border-radius: 6px;
@@ -109,13 +109,13 @@
 	margin-left: 70px;
 	margin-right: 50px;
 }
-.baske h6 {
+.basket h6 {
 	margin-left: 40px;
 	text-align: justify;
 	font-size: 10px;
 	line-height: 1em;
 }
-.baske img {
+.basket img {
 		border-radius: 6px;
 		width: 400px;
 		height: 400px;
@@ -123,9 +123,9 @@
 		border-width: 2px;
 		border-style: solid;
 }
-.baske h2{
+.basket h2{
 }
-.baske h4 {
+.basket h4 {
 	font-size: 9px;
 	font-weight: normal;
 	color: #919191;
@@ -135,7 +135,7 @@
 	margin-left: 70px;
 	margin-right: 50px;
 }
-.baske h6 {
+.basket h6 {
 	margin-left: 40px;
 	text-align: justify;
 	font-size: 10px;
