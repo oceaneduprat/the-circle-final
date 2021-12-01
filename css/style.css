@@ -1,0 +1,99 @@
+
+   
+@import url(https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto&display=swap);
+
+@import url(https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto&display=swap);
+
+@import url("components/banner.css");
+@import url("components/containers.css");
+@import url("components/cards.css");
+@import url("components/buttons.css");
+@import url("components/boxes.css");
+
+
+
+h1, h2, h3 {
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+  color: #044723;
+  font-size: 20px;
+  background-color: #C5D9C0;
+  width: 250px;
+  padding: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 20px;
+  margin-right: 915px;
+  width: 250px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  margin: 0px;
+}
+
+a { 
+  text-decoration: none;
+  color: white;
+
+}
+
+img {
+  height: 200px;
+  display: flex;
+}
+
+.homepage-left {
+  padding: 10px;
+
+}
+
+.homepage-left p {
+  margin-left: 320px;
+}
+
+.homepage-left img {
+  height: 200px;
+  vertical-align: middle;
+  float: left;
+}
+
+.homepage-right {
+  padding: 10px;
+
+}
+
+.homepage-right p {
+  text-align: justify;
+  margin-right: 250px;
+  margin-top: 50px;
+}
+
+.homepage-right img {
+  height: 300px;
+  vertical-align: middle;
+  float: right;
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .style {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .style {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .style {
+    width: 300px;
+  }

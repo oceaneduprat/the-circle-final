@@ -1,0 +1,127 @@
+
+/* For the green banner menu at the top */ 
+
+.banner-menu {
+
+	background-color: rgb(4, 71, 35);
+	padding: 10px;
+	display: flex;
+}
+
+.banner-menu img {
+	height: 80px;
+}
+.banner-menu h1 {
+	padding-right: 40px;
+	padding-left: 40px;
+	color: white;
+}
+
+/* For the search field inside the banner menu */
+
+.search-field {
+	height: 30px;
+	padding:  10px;
+	border: none;
+	border-radius: 25px;
+	outline: none;
+	width: 400px;
+	display: flex;
+	margin-top: 20px;
+
+}
+
+.search-field i{
+	font-size: 30px;
+	color: white;
+}
+
+/* ? */
+
+.card-green-homepage {
+	background-color: #044723;
+	display: flex;
+	position: absolute;
+    margin-left: 1220px;
+    text-align: right;
+}
+
+
+
+.card-green-homepage h2 {
+	color: white;
+    margin:  10px;
+    margin-left: 10px;
+
+}
+
+/* In the homepage */
+
+.banner {
+	background-image: linear-gradient(-225deg, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.2) 50%), url(../../images/banner.jpeg);
+	padding: 150px 0px;
+	color: #044723;
+	text-align: center;
+	background-size: cover;
+    margin-top: 10px;
+    margin-bottom: 50px;
+	
+
+}
+
+.banner h2 {
+	background-color: #F1E9DF;
+	padding: 37px 10px;
+	margin-bottom: 40px;
+
+
+}
+
+.banner btn-green {
+	background-color: white;
+	padding: 30px 10px;
+}
+
+.list-inline {
+
+	background-color: #044723;
+    margin-top: 60px;
+    margin-left: 60px;
+  
+
+}
+.list-inline i {
+	font-size: 30px;
+	color: white;
+}
+
+.list-inline i:hover {
+	font-size: 30px;
+	color: #51776c;
+}
+
+/* For the register page */
+
+.banner-circle img {
+	position: center;
+	padding: 10px;
+	margin-left: 360px;
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .basket {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .basket {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .basket {
+    width: 300px;
+  }

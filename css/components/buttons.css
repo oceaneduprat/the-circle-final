@@ -1,0 +1,100 @@
+/* In the homepage */
+
+.btn-green {
+	background-color: #044723;
+	padding: 10px 30px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Fjalla One', sans-serif;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.btn-green:hover {
+	background-color:#51776c ;
+	color: black 
+	margin-bottom: 10px;
+}
+
+.btn-white {
+	background-color: #044723;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.btn-white:hover {
+	background-color:#51776c ;
+	color: black 
+	margin-bottom: 10px;
+}
+
+/* About Us page */
+.button-joinus{
+	background-color:  #044723;
+	padding: 10px 10px 5px 10px;
+	border-radius: 5px;
+	margin: 22px;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Fjalla One', sans-serif;
+	font-color: white;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	margin-right: 450px;
+	margin-left: 450px;
+}
+
+.button-joinus:hover {
+	background-color:#51776c;
+	color: white;
+	margin-bottom: 10px;
+}
+
+/* For the register page */
+
+.buttonjoinus {
+ background-color: #FFFFFF;
+ border-radius: 7px;
+ margin-right: 90px;
+ margin-left: 110px;
+ height: 30px;
+ width: 170px;
+}
+.buttonjoinus h1 {
+  color: #044723;
+  margin-right: 20px;
+  margin-left: 25px;
+  border-bottom: none;
+}
+
+.buttonjoinus:hover {
+  background-color:#51776c;
+  color: white;
+  margin-bottom: 10px;
+}
+
+/* For the login page */
+
+
+.buttonlogin {
+ background-color: #FFFFFF;
+ border-radius: 7px;
+ margin-right: 100px;
+ margin-left: 130px;
+ height: 30px;
+ width: 115px;
+}
+.buttonlogin h1 {
+  color: #044723;
+  margin-right: 20px;
+  margin-left: 25px;
+  border-bottom: none;
+}
+
+.buttonlogin:hover {
+  background-color:#51776c;
+  color: white;
+  margin-bottom: 10px;
+}

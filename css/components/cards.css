@@ -1,0 +1,454 @@
+/* For the social networks */
+
+
+   
+.socialnetworks {
+	background-color: #C5D9C0;
+	padding: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 20px;
+	margin-right: 915px;
+  width: 250px;
+}
+
+/* In the homepage */
+.card-white-welcome {
+	margin-left: 30px;
+	margin-top: 20px;
+	display: flex;
+}
+
+.card-white-welcome h1 {
+	color: #044723;
+	display: inline-block;
+}
+
+.card-white-welcome img {
+
+	height: 52px;
+	margin-top: 17px;
+}
+
+/* In the About Us page */
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 40px;
+}
+.cards h2{
+	margin-left: 80px;
+}
+
+.card-green-us{
+	background-color: #C5D9C0;
+	border-color: #044723;
+	padding: 20px;
+	padding-top: 5px;
+	border-radius: 2px;
+	margin: 20px;
+	text-align: center;
+	border-width: 60px;
+	flex-basis: 550px;
+	text-align: justify;
+}
+.card-green-us img{
+	width: 140px;
+	height: 140px;
+	border-radius: 35%;
+	margin-left: 200px; 
+	position: left;
+}
+.card-green-us h2{
+	margin-left: 30px;
+}
+
+.card-green-us h3{
+	font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.card-green-us a {
+	color: black;
+}
+
+/* In the wishlist page */
+.baske {
+	display: flex;
+	align-items: center;
+	border-radius: 6px;
+	width: 550px;
+	height: 550px;
+	margin: 20px 40px;
+}
+.baske img{
+	border-radius: 6px;
+		width: 400px;
+		height: 400px;
+		border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+}
+.baske h4 {
+	font-size: 9px;
+	font-weight: normal;
+	color: #919191;
+	margin-left: 40px;
+}
+.baske {
+	display: flex;
+	align-items: center;
+	border-radius: 6px;
+	width: 550px;
+	height: 550px;
+	margin: 20px 40px;
+}
+.baske h3 {
+	margin-left: 70px;
+	margin-right: 50px;
+}
+.baske h6 {
+	margin-left: 40px;
+	text-align: justify;
+	font-size: 10px;
+	line-height: 1em;
+}
+.baske img {
+		border-radius: 6px;
+		width: 400px;
+		height: 400px;
+		border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+}
+.baske h2{
+}
+.baske h4 {
+	font-size: 9px;
+	font-weight: normal;
+	color: #919191;
+	margin-left: 40px;
+}
+.baske h3 {
+	margin-left: 70px;
+	margin-right: 50px;
+}
+.baske h6 {
+	margin-left: 40px;
+	text-align: justify;
+	font-size: 10px;
+	line-height: 1em;
+}
+
+.pullnoir {
+	display: flex;
+	align-items: center;
+	border-radius: 6px;
+	width: 550px;
+	height: 550px;
+	margin: 20px 40px;
+}
+
+.pullnoir img {
+		border-radius: 6px;
+		width: 400px;
+		height: 400px;
+		border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+}
+.pullnoir h2 {
+	margin-right: 50px;
+	text-align: middle;
+	margin-left: 40px;
+}
+
+.pullnoir h3 {
+	margin-left: 40px;
+	margin-right: 50px;
+}
+
+.pullnoir h6 {
+	margin-left: 40px;
+	text-align: justify;
+	font-size: 10px;
+	line-height: 1em;
+}
+
+.pullnoir h4 {
+	font-size: 9px;
+	font-weight: normal;
+	color: #919191;
+	margin-left: 40px;
+}
+
+.upup {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 40px;
+  height: 200px;
+   margin: 0px 40px;
+}
+.upup h1 {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+
+.upup h4 {
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: bold;
+  color: #044723;
+  font-size: 150px;
+  background-color: none;
+}
+   
+
+
+/* For the register page */
+
+
+.registercard {
+	background-color: #8AB591;
+	width: 375px;
+	height: 580px;
+	position: center;
+	margin-left: 450px;
+	padding: 20px;
+	margin-top: 30px;
+	position: absolute;
+}
+.registercard h1{
+	font-family : 'Fjalla One', sans-serif;
+	color: black;
+	font-size: 26px;
+	margin-left: 35px;
+	text-align: justify;
+	margin-right: 80px;
+}
+
+.registercard h3 {
+	font-family: 'Roboto', sans-serif;
+	color: #044723;
+	font-size:  12px;
+	margin-left: 35px;
+}
+.registercard h6 {
+	font-family: 'Roboto', sans-serif;
+	margin: 0px;
+	font-size: 8px;
+	text-align: center;
+}
+
+.registercard h5,h2 {
+	color: #8AB591;
+	font-family: 'Roboto', sans-serif;
+	font-size: 13px;
+}
+
+.registercard h5 {
+	background-color: white;
+	width: 279px;
+	height: 31px;
+	margin-left: 35px;
+	position: center;
+	padding: 10px;
+}
+.registercard h2 {
+	background-color: white;
+	width: 279px;
+}
+.bordur {
+	border-bottom: 3px solid black;
+	border-right: 3px solid white;
+	width: 195px;
+}
+
+.align {
+	display: flex;
+}
+.align h5{
+	height: 31px;
+	margin-left: 35px;
+	margin-right: 39px;
+	padding: 5px;
+}
+
+.align h2{
+	height: 31px;
+	margin-left: 14px;
+	padding: 5px;
+	margin-right: 39px;
+}
+
+/* For the login page */
+.logincard {
+	background-color: #8AB591;
+	width: 375px;
+	height: 400px;
+	position: center;
+	margin-left: 450px;
+	padding: 20px;
+	margin-top: 30px;
+	position: absolute;
+}
+
+.logincard h1 {
+	width: 120px;
+}
+
+.logincard h5 {
+	background-color: white;
+	width: 279px;
+	height: 31px;
+	margin-left: 35px;
+	position: center;
+	padding: 10px;
+}
+.logincard h2 {
+	background-color: white;
+	width: 279px;
+}
+.bordure {
+	border-bottom: 3px solid black;
+	border-left: 3px solid white;
+	width: 190px;}
+
+}
+
+/* For the sneakers page */
+
+
+   
+.card-banner { 
+	display: flex;
+	align-items: right;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+.card-banner img { 
+	width: 350px;
+}
+
+.card-banner h1 {
+  flex-grow: 1;
+  padding-left: 20px;
+  font-size: 80px;
+  color: #044723;
+}
+
+.card-white {
+	background-color: #C5D9C0;
+	border-color: #044723;
+	padding: 20px;
+	padding-top: -10px;
+	border-radius: 2px;
+	margin: 0px;
+	text-align: left;
+	margin-right: 900px;
+	border-width: 60px;
+}
+
+.card-white img {
+	width: 100%;
+	position: center;
+}
+
+.card-white h1 {
+	font-size: 10;
+	text-align: right;
+}
+
+.card-white h2 {
+	font-size: 8;
+}
+
+.card-white {
+  flex-basis: 250px;
+	flex-grow: 1;
+	margin: 20px;
+}
+
+.cards {
+  display: flex;
+	flex-wrap: wrap;
+	margin-left: 190px;
+	z-index: 1;
+}
+
+/* For the product page */
+
+.card-green {
+	background-color: #C5D9C0;
+	border-color: #044723;
+	padding: 10px;
+	padding-top: -10px;
+	border-radius: 2px;
+	margin: 0px;
+	text-align: left;
+	border-width: 60px;
+
+}
+
+.card-green {
+  flex-basis: 250px;
+	flex-grow: 1;
+	margin: 10px;
+}
+
+.cards {
+   display: flex;
+  justify-content: space-between;
+}
+
+
+.card-green img {
+	width: 100%;
+	position: center;
+  width: 200px;
+  height: 100px;
+}
+
+.card-green h1 {
+	font-size: 10;
+	text-align: right;
+}
+
+.card-green h2 {
+	font-size: 8;
+}
+
+.card-green h3 {
+  font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: black;
+}
+
+.card-green h4 {
+  font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    font-size: 19px;
+    color: black;
+}
+
+.card-little {
+  display: flex;
+	padding: 20px;
+  
+}
+.card-little img {
+  width: 80px;
+  height: 60px;
+}
+
+.cards-little {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 640px;
+  margin-top: 30px;
+}
