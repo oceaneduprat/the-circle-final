@@ -32,26 +32,23 @@
 
 /* In the About Us page */
 
-.cards {
+.cards-us {
 	display: flex;
 	flex-wrap: wrap;
-	margin-left: 40px;
-}
-.cards h2{
-	margin-left: 80px;
+	margin-left: 100px;
+
 }
 
 .card-green-us{
 	background-color: #C5D9C0;
 	border-color: #044723;
-	padding: 20px;
-	padding-top: 5px;
+	padding: 30px;
 	border-radius: 2px;
-	margin: 20px;
-	text-align: center;
-	border-width: 60px;
-	flex-basis: 550px;
 	text-align: justify;
+	width: 500px;
+	margin-bottom: 30px;
+	margin-right: 110px;
+
 }
 .card-green-us img{
 	width: 140px;
@@ -76,7 +73,7 @@
 }
 
 /* In the wishlist page */
-.baske {
+.basket {
 	display: flex;
 	align-items: center;
 	border-radius: 6px;
@@ -84,7 +81,7 @@
 	height: 550px;
 	margin: 20px 40px;
 }
-.baske img{
+.basket img{
 	border-radius: 6px;
 		width: 400px;
 		height: 400px;
@@ -92,13 +89,13 @@
 		border-width: 2px;
 		border-style: solid;
 }
-.baske h4 {
+.basket h4 {
 	font-size: 9px;
 	font-weight: normal;
 	color: #919191;
 	margin-left: 40px;
 }
-.baske {
+.basket {
 	display: flex;
 	align-items: center;
 	border-radius: 6px;
@@ -106,17 +103,17 @@
 	height: 550px;
 	margin: 20px 40px;
 }
-.baske h3 {
+.basket h3 {
 	margin-left: 70px;
 	margin-right: 50px;
 }
-.baske h6 {
+.basket h6 {
 	margin-left: 40px;
 	text-align: justify;
 	font-size: 10px;
 	line-height: 1em;
 }
-.baske img {
+.basket img {
 		border-radius: 6px;
 		width: 400px;
 		height: 400px;
@@ -124,16 +121,16 @@
 		border-width: 2px;
 		border-style: solid;
 }
-.baske h2{
+.basket h2{
 	color: black;
 }
-.baske h4 {
+.basket h4 {
 	font-size: 9px;
 	font-weight: normal;
 	color: #919191;
 	margin-left: 40px;
 }
-.baske h3 {
+.basket h3 {
 	margin-left: 70px;
 	margin-right: 50px;
 }
