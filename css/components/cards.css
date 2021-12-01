@@ -4,12 +4,12 @@
    
 .socialnetworks {
 	background-color: #C5D9C0;
-	padding: 50px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding: 20px;
+	padding-top: 2px;
+	padding-bottom: 2px;
 	margin: 20px;
-	margin-right: 915px;
-  width: 250px;
+	margin-right: 750px;
+	width: 400px;
 }
 
 /* In the homepage */
@@ -32,10 +32,10 @@
 
 /* In the About Us page */
 
-.cards {
+.cards-us {
 	display: flex;
 	flex-wrap: wrap;
-	margin-left: 40px;
+	margin-left: 100px;
 }
 .cards h2{
 	margin-left: 80px;
