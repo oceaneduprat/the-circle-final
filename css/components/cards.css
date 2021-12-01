@@ -1,9 +1,6 @@
 /* For the social networks */
-
-
-   
+ 
 .socialnetworks {
-	.socialnetworks {
 	background-color: #C5D9C0;
 	padding: 20px;
 	padding-top: 2px;
@@ -11,6 +8,7 @@
 	margin: 20px;
 	margin-right: 750px;
 	width: 400px;
+
 }
 
 /* In the homepage */
@@ -33,6 +31,11 @@
 
 /* In the About Us page */
 
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 40px;
+}
 .cards-us {
 	display: flex;
 	flex-wrap: wrap;
@@ -44,11 +47,12 @@
 	border-color: #044723;
 	padding: 30px;
 	border-radius: 2px;
-	width: 400px;
 	text-align: justify;
+	width: 500px;
 	margin-bottom: 30px;
 	margin-right: 110px;
 }
+
 .card-green-us img{
 	width: 140px;
 	height: 140px;
@@ -72,7 +76,7 @@
 }
 
 /* In the wishlist page */
-.basket {
+.baske {
 	display: flex;
 	align-items: center;
 	border-radius: 6px;
@@ -80,7 +84,7 @@
 	height: 550px;
 	margin: 20px 40px;
 }
-.basket img{
+.baske img{
 	border-radius: 6px;
 		width: 400px;
 		height: 400px;
@@ -88,13 +92,13 @@
 		border-width: 2px;
 		border-style: solid;
 }
-.basket h4 {
+.baske h4 {
 	font-size: 9px;
 	font-weight: normal;
 	color: #919191;
 	margin-left: 40px;
 }
-.basket {
+.baske {
 	display: flex;
 	align-items: center;
 	border-radius: 6px;
@@ -102,17 +106,17 @@
 	height: 550px;
 	margin: 20px 40px;
 }
-.basket h3 {
+.baske h3 {
 	margin-left: 70px;
 	margin-right: 50px;
 }
-.basket h6 {
+.baske h6 {
 	margin-left: 40px;
 	text-align: justify;
 	font-size: 10px;
 	line-height: 1em;
 }
-.basket img {
+.baske img {
 		border-radius: 6px;
 		width: 400px;
 		height: 400px;
@@ -120,16 +124,15 @@
 		border-width: 2px;
 		border-style: solid;
 }
-.basket h2{
-	color: black;
+.baske h2{
 }
-.basket h4 {
+.baske h4 {
 	font-size: 9px;
 	font-weight: normal;
 	color: #919191;
 	margin-left: 40px;
 }
-.basket h3 {
+.baske h3 {
 	margin-left: 70px;
 	margin-right: 50px;
 }
@@ -181,28 +184,28 @@
 	color: #919191;
 	margin-left: 40px;
 }
-.up {
-	display: flex;
+
+.upup {
+  display: flex;
   justify-content: space-between;
-	align-items: center;
+  align-items: center;
   margin: 0px 40px;
   height: 200px;
-  margin: 0px 40px;
+   margin: 0px 40px;
 }
-.up h1{
+.upup h1 {
 	font-family: 'Fjalla One', sans-serif;
 }
-.up h4{
-	font-family: 'Fjalla One', sans-serif;
+
+
+.upup h4 {
+  font-family: 'Fjalla One', sans-serif;
   font-weight: bold;
   color: #044723;
   font-size: 150px;
-  background-color: white;
-  margin-left: 1000px;
-  margin-top: 40px;
+  background-color: none;
 }
-
-
+   
 
 
 /* For the register page */
@@ -240,7 +243,7 @@
 	text-align: center;
 }
 
-.registercard h5 {
+.registercard h5,h2 {
 	color: #8AB591;
 	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
