@@ -17,6 +17,11 @@
 	color: white;
 }
 
+.banner-menu h2 {
+	font-size: 28px;
+	color: white;
+}
+
 /* For the search field inside the banner menu */
 
 .search-field {
@@ -73,7 +78,8 @@
 	background-color: #F1E9DF;
 	padding: 37px 10px;
 	margin-bottom: 40px;
-
+	font-size: 30px;
+	color: #044723;
 
 }
 
