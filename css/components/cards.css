@@ -44,14 +44,13 @@
 .card-green-us{
 	background-color: #C5D9C0;
 	border-color: #044723;
-	padding: 20px;
-	padding-top: 5px;
+	padding: 30px;
 	border-radius: 2px;
-	margin: 20px;
-	text-align: center;
-	border-width: 60px;
-	flex-basis: 550px;
 	text-align: justify;
+	width: 500px;
+	margin-bottom: 30px;
+	margin-right: 110px;
+
 }
 .card-green-us img{
 	width: 140px;
