@@ -242,7 +242,7 @@
 	text-align: center;
 }
 
-.registercard h5,h2 {
+.registercard h5,h7 {
 	color: #8AB591;
 	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
@@ -256,7 +256,7 @@
 	position: center;
 	padding: 10px;
 }
-.registercard h2 {
+.registercard h7 {
 	background-color: white;
 	width: 279px;
 }
@@ -276,7 +276,7 @@
 	padding: 5px;
 }
 
-.align h2{
+.align h7{
 	height: 31px;
 	margin-left: 14px;
 	padding: 5px;
