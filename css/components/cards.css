@@ -4,12 +4,12 @@
    
 .socialnetworks {
 	background-color: #C5D9C0;
-	padding: 20px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	margin: 20px;
-	margin-right: 750px;
-	width: 400px;
+	margin-right: 915px;
+  width: 250px;
 }
 
 /* In the homepage */
@@ -32,25 +32,26 @@
 
 /* In the About Us page */
 
-.cards-us {
+.cards {
 	display: flex;
 	flex-wrap: wrap;
-	margin-left: 100px;
+	margin-left: 40px;
 }
-.cards-us h2{
+.cards h2{
 	margin-left: 80px;
 }
 
 .card-green-us{
 	background-color: #C5D9C0;
 	border-color: #044723;
-	padding: 30px;
+	padding: 20px;
+	padding-top: 5px;
 	border-radius: 2px;
+	margin: 20px;
+	text-align: center;
+	border-width: 60px;
+	flex-basis: 550px;
 	text-align: justify;
-	width: 500px;
-	margin-bottom: 30px;
-	margin-right: 110px;
-
 }
 .card-green-us img{
 	width: 140px;
@@ -75,7 +76,7 @@
 }
 
 /* In the wishlist page */
-.basket {
+.baske {
 	display: flex;
 	align-items: center;
 	border-radius: 6px;
@@ -91,13 +92,13 @@
 		border-width: 2px;
 		border-style: solid;
 }
-.basket h4 {
+.baske h4 {
 	font-size: 9px;
 	font-weight: normal;
 	color: #919191;
 	margin-left: 40px;
 }
-.basket {
+.baske {
 	display: flex;
 	align-items: center;
 	border-radius: 6px;
@@ -109,13 +110,13 @@
 	margin-left: 70px;
 	margin-right: 50px;
 }
-.basket h6 {
+.baske h6 {
 	margin-left: 40px;
 	text-align: justify;
 	font-size: 10px;
 	line-height: 1em;
 }
-.basket img {
+.baske img {
 		border-radius: 6px;
 		width: 400px;
 		height: 400px;
@@ -123,9 +124,10 @@
 		border-width: 2px;
 		border-style: solid;
 }
-.basket h2{
+.baske h2{
+	color: black;
 }
-.basket h4 {
+.baske h4 {
 	font-size: 9px;
 	font-weight: normal;
 	color: #919191;
@@ -135,7 +137,7 @@
 	margin-left: 70px;
 	margin-right: 50px;
 }
-.basket h6 {
+.baske h6 {
 	margin-left: 40px;
 	text-align: justify;
 	font-size: 10px;
@@ -183,28 +185,28 @@
 	color: #919191;
 	margin-left: 40px;
 }
-
-.upup {
-  display: flex;
+.up {
+	display: flex;
   justify-content: space-between;
-  align-items: center;
+	align-items: center;
   margin: 0px 40px;
   height: 200px;
-   margin: 0px 40px;
+  margin: 0px 40px;
 }
-.upup h1 {
+.up h1{
 	font-family: 'Fjalla One', sans-serif;
 }
-
-
-.upup h4 {
-  font-family: 'Fjalla One', sans-serif;
+.up h4{
+	font-family: 'Fjalla One', sans-serif;
   font-weight: bold;
   color: #044723;
   font-size: 150px;
-  background-color: none;
+  background-color: white;
+  margin-left: 1000px;
+  margin-top: 40px;
 }
-   
+
+
 
 
 /* For the register page */
@@ -242,7 +244,7 @@
 	text-align: center;
 }
 
-.registercard h5,h2 {
+.registercard h5 {
 	color: #8AB591;
 	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
