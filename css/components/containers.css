@@ -22,6 +22,7 @@
 	border-width: 60px;
 }
 
+
 /* For the sneakers page */
 
 .list-inline2 {
@@ -51,10 +52,13 @@ padding: 10px;
 }
 
 
-
 .price {
-margin-left: 200px;
+margin-left: 180px;
 }
+
+.price h2 {
+color: black;
+}	
 
 .far.fa-heart-green {
 color:#044723;
@@ -65,6 +69,7 @@ margin-left: 10px;
 font-size: 40px;
 margin-left: 600px;
 }
+
 
 /* For the product page */ 
 
@@ -106,4 +111,25 @@ margin-right: 500px;
 .basket h1,h2,h3,h6 {
 margin-left: 40px;
 margin-top: 0px;
+}
+
+
+.list-inline-product{
+	  background-color: #C5D9C0;
+   margin-left: 0px;
+    list-style: none;
+}
+
+.list-inline-product i {
+	font-size: 30px;
+	color: white;
+}
+
+.list-inline-product i:hover {
+	font-size: 30px;
+	color: #51776c;
+}
+
+.price-product {
+margin-left: 120px;
 }
