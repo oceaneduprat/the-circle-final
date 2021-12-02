@@ -73,6 +73,7 @@
     font-weight: normal;
     text-align: center;
     margin-left: 10px;
+    display: flex;
 }
 
 .card-green-us a {
