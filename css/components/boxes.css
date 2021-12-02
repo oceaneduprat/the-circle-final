@@ -73,6 +73,24 @@ border-style: solid;
 
 }
 
+/* For the sneakers page */
+
+.box-green-sneakers {
+	background-color: #C5D9C0;
+	border-color: #044723;
+	padding: 10px;
+	padding-top: -10px;
+	border-radius: 2px;
+	margin: 30px;
+	text-align: left;
+	margin-right: 900px;
+	border-width: 40px;
+	width: 220px;
+	position: absolute;
+	margin-top: 150px;
+
+}
+
 /* For the product page */ 
 
 .basket {
@@ -142,8 +160,9 @@ padding-top: 40px;
 	font-weight: normal;
 	border-radius: 6px;
 	text-align: center;
-	width: 230px;
+	width: 250px;
 	height: 20px;
+	margin-left: 30px;
 }
 
 .green-box h5 {
@@ -151,9 +170,9 @@ padding-top: 40px;
 	font-family: 'Fjalla One', sans-serif;
 	font-weight: normal;
 	border-radius: 6px;
-	width: 230px;
+	width: 250px;
 	height: 20px;
-	margin-left: 40px;
+	margin-left: 30px;
 	font-size: 15px;
 }
 
@@ -162,7 +181,7 @@ margin-right: 40px;
 margin-bottom: 10px;
 }
 
-.greenbox h6 {
+.green-box h6 {
 
   font-family: 'Roboto', sans-serif;
   font-size: 11px;
@@ -174,11 +193,14 @@ margin-bottom: 10px;
 
 .green-box h4 {
   font-family: 'Roboto', sans-serif;
-  font-size: 11px;
+  font-size: 12px;
   text-align: center;
   color: #044723;
   font-weight: normal;
   margin-top: 10px;
+  width: 160px;
+  margin-left: 10px;
+  background-color: white;
 }
 
 
