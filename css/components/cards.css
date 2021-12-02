@@ -235,6 +235,7 @@
 	color: #044723;
 	font-size:  12px;
 	margin-left: 35px;
+	margin-top: 8px;
 }
 .registercard h6 {
 	font-family: 'Roboto', sans-serif;
@@ -260,6 +261,8 @@
 .registercard h2 {
 	background-color: white;
 	width: 279px;
+	font-size: 13px;
+	color: #8AB591
 }
 .bordur {
 	border-bottom: 3px solid black;
