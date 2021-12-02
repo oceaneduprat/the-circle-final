@@ -41,6 +41,16 @@ a {
 
 }
 
+.bordure {
+width: 1200px;
+margin: 90px;
+  }
+
+#title h2 {
+  font-size: 60px;
+  color: black;
+  }
+
 img {
   height: 200px;
   display: flex;
