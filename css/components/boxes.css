@@ -223,17 +223,19 @@ margin-bottom: 10px;
 .box-white  img {
 		border-radius: 6px;
 		width: 75px;
-		height: 50px;
+		height: 35px;
 		border-color: #C5D9C0;
 		border-width: 2px;
 		border-style: solid;
 }
-.box-white  h4,h5,h6 {
-	
-}
 
-.box-title {
-	margin-left: 10px;
+
+
+
+.box-white h4 {
+width: 180px;
+	background-color: white;
+	margin-right: 260px;
 }
 
 .box-pullblack {
@@ -254,8 +256,8 @@ margin-bottom: 10px;
 		height: 50px;
 		border : none;
 }
-.box-pullblack   h5 {
-
+.box-pullblack   h5, h6 {
+margin-left: 0px;
 }
 
 .box-pullblack h6 {
@@ -266,7 +268,8 @@ margin-bottom: 10px;
 .box-pullblack  h3{
 font-size: 20px;
 color: #044723;
-margin-right: 10px;
+margin-left: 0px;
+margin-right: 40px;
 }
 
 .box-platinum {
@@ -289,6 +292,7 @@ margin-right: 10px;
 }
 
 .box-platinum  h5,h6  {
+	margin-left: 0px;
 }
 
 
@@ -318,6 +322,7 @@ font-size: 20px;
 
 .box-jean img {
 	width: 150px;
+	height: 180px;
 	 border-color: #C5D9C0;
 		border-width: 2px;
 		border-style: solid;
@@ -336,7 +341,7 @@ font-size: 30px;
 	padding-top: -10px;
 	border-radius: 2px;
 	width: 310px;
-	height: 150px;
+	height: 160px;
 	margin: 10px;
 	border-width: 60px;
 	z-index: 1;
@@ -346,6 +351,15 @@ font-size: 30px;
 		border-width: 2px;
 		border-style: solid;
 }
+
+.box-green h4 {
+width: 250px;
+margin-right: 0px;
+margin-top: 0px;
+margin-left: -20px;
+}
+
+
 
 .box-black {
 	display:flex;
@@ -357,8 +371,11 @@ font-size: 30px;
 	
 }
 
+
+
 .box-black img {
 	width: 150px;
+	height: 180px;
     border-color: #C5D9C0;
 		border-width: 2px;
 		border-style: solid;
@@ -369,5 +386,4 @@ font-size: 30px;
 font-size: 30px;
 color: #044723;
 font-family: 'Fjalla One', sans-serif;
-font-size: 30px; 
 }
