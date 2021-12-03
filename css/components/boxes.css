@@ -205,19 +205,18 @@ margin-bottom: 10px;
 
 
 /* For the basket page */
-
 .box-white {
 	padding: 20 px;
 	align-items: center;
 	border-radius: 6px;
 	width: 350px;
 	height: 290px;
-	margin: 20px 40px;
+
 	border-color: #C5D9C0;
 		border-width: 2px;
 		border-style: solid;
-	margin-bottom: : 800px;
-	margin-left: 900px;
+	margin-left: 1000px;
+	margin-top: 300px;
 }
 
 .box-white  img {
@@ -345,8 +344,9 @@ font-size: 30px;
 	margin: 10px;
 	border-width: 60px;
 	z-index: 1;
-	margin-bottom: : 900px;
-	margin-left: 900px;
+	margin-bottom: : 2000px;
+	margin-left: 1000px;
+	margin-top: 0px;
 	border-color: black;
 		border-width: 2px;
 		border-style: solid;
