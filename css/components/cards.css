@@ -293,11 +293,13 @@ color: black;
 	margin-right: 39px;
 }
 
+
 /* For the login page */
+
 .logincard {
-	background-color: #8AB591;
+background-color: #8AB591;
 	width: 375px;
-	height: 400px;
+	height: 420px;
 	position: center;
 	margin-left: 450px;
 	padding: 20px;
@@ -306,7 +308,12 @@ color: black;
 }
 
 .logincard h1 {
-	width: 120px;
+	font-family : 'Fjalla One', sans-serif;
+	color: black;
+	font-size: 26px;
+	margin-left: 35px;
+	text-align: justify;
+	margin-right: 35px;
 }
 
 .logincard h5 {
@@ -317,11 +324,28 @@ color: black;
 	position: center;
 	padding: 10px;
 }
-.logincard h2 {
-	background-color: white;
-	width: 279px;
+
+
+.logincard h3 {
+	font-family: 'Roboto', sans-serif;
+	color: #044723;
+	font-size: 12px;
+	margin-top: 5px;
 }
-.bordure {
+
+
+.logincard h5 {
+	color: #8AB591;
+	font-family: 'Roboto', sans-serif;
+	font-size: 13px;
+}
+.logincard h2 {
+	color: white;
+	width: 50px;
+	position: center;
+	margin-left: 160px;
+}
+.bordures {
 	border-bottom: 3px solid black;
 	border-left: 3px solid white;
 	width: 190px;}
