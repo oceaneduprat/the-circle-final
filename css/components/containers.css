@@ -133,3 +133,80 @@ margin-top: 0px;
 .price-product {
 margin-left: 120px;
 }
+
+
+
+/* For the basket page */ 
+
+
+.fas.fa-shopping-cart {
+color:#044723;
+margin-right: 200px;
+}
+
+.bordure-basket{
+border-bottom: 3px solid black;
+	width: 785px;
+}
+
+.basket-price h2 {
+margin-left: 700px; 
+font-size: 25px;
+}
+
+.Price-number h4{
+ margin-left: 95px;
+ background-color: white;
+ width: 10px;
+}
+
+.list-clothes {
+	list-style: none;
+   margin-right: 150px;
+
+}
+
+
+.list-clothes li {
+	width: 200px;
+
+}
+.Sub-total{
+	margin-left: 450px;
+	display: flex;
+}
+
+.Sub-total h4 {
+font-size: 30px;
+color: #044723;
+font-family: 'Fjalla One', sans-serif;
+margin-left: 320px;
+}
+
+
+.Sub-total h2 {
+	font-size: 28px;
+}
+
+.alignement {
+	display: flex;
+}
+
+.alignement h4 {
+	height: 31px;
+	margin-left: 85px;
+	margin-right: 0px;
+	padding: 5px;
+	margin-top: 0px;
+}
+
+
+.list-byline {
+  list-style: none;
+  margin: 2px;
+  line-height: 1px;
+}
+
+
+
+
