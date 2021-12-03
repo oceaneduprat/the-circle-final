@@ -80,6 +80,15 @@
 	color: black;
 }
 
+
+/* For the basket page */
+
+
+.card-basket h1{
+	margin-right: 900px;
+}
+
+
 /* In the wishlist page */
 .baske {
 	display: flex;
